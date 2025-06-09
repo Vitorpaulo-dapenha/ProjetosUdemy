@@ -54,7 +54,6 @@ Projeto front-end responsivo inspirado na landing page oficial do Spotify. Este 
 **Vitor Paulo da Penha**  
 Desenvolvedor Full Stack em transição de carreira, apaixonado por interfaces intuitivas e código limpo. Buscando oportunidades para aprimorar habilidades e entregar soluções criativas com qualidade.
 
-- 🌐 [LinkedIn](www.linkedin.com/in/vitor-paulo-da-penha)
 - 📧 vitorpaulodapenha03@gmail.com
 
 ---
